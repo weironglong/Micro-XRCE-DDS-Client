@@ -1,0 +1,8 @@
+module university {
+  struct StudentInfo {
+    string name;
+    string pinyin;
+    long student_id;
+    long birthdate;
+  };
+};
